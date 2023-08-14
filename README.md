@@ -1,4 +1,4 @@
-# Microsoft-Developer-Resources-Azure Synapse Analytics
+# Microsoft-Azure-AI-Developer-Resources
 ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
 Explore on how to use Azure AI, dive deeper into the capabilities and resources available.
 
